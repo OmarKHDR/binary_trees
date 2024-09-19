@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * main - Entry point
+ * binary_tree_node - Entry point
  * @parent: peak
  * @value: pls pls
  * Description: pls read
