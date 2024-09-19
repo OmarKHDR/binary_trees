@@ -1,5 +1,12 @@
 #include "binary_trees.h"
 
+/**
+ * main - Entry point
+ * @parent: peak
+ * @value: pls pls
+ * Description: pls read
+ * Return: Always 0 (Success)
+ */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
